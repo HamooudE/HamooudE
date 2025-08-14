@@ -1,3 +1,4 @@
+![Banner](assets/HamoodE.png)
 # 💫 About Me
 
 Hi there! 👋  
