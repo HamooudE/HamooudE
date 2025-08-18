@@ -11,7 +11,7 @@
 Hi! I’m **HamooudE** — a student of **software developer** and **embedded system**. Building **real‑time applications**, exploring **scalable architectures**, and tinkering with **ARM/RISC-V** projects.
 
 * 🚀 **Currently building**
-  * **Morse** — secure, real‑time messaging with **end‑to‑end encryption** (E2EE)
+  * **Morse** — secure, real‑time messaging with **E2EE**
     
 * 💡 **Interests**: full‑stack engineering, system design, DevOps, and embedded hardware
 
