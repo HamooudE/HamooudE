@@ -1,6 +1,6 @@
 ![Banner](assets/HamooudE.png)
 
-**HamooudE™ Corp.**  
+**HamoudE™ Corp.**  
 **DEV & PCB Architect**  
 **IG:** @ShortnGround • 🎯 `*******.dev`
 
