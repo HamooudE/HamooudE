@@ -2,7 +2,8 @@
 
 **HamoudE™ Corp.**  
 **DEV & PCB Architect**  
-**IG:** @ShortnGround • 🎯 `*******.dev`
+**IG:** @ShortnGround  
+🎯 `*******.dev`
 
 ---
 
