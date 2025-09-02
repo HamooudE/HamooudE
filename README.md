@@ -3,7 +3,7 @@
 **HamoudE™ Corp.**  
 **DEV & PCB Architect**  
 **IG:** @ShortnGround  
-🎯 `*******.dev`
+🎯 [𝗗𝗶𝘀𝗰𝗼𝗱𝗲.𝗱𝗲𝘃](https://discode.dev)
 
 ---
 
