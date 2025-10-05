@@ -19,7 +19,7 @@ Building **real‑time applications**, exploring **scalable architectures**, and
 **Programming**:
 * **Java** – object-oriented design, collections, concurrency, backend services
 * **Python** – scripting, data processing, automation, quick prototyping
-**Embedded/SoC**: ARM Cortex series, Rockchip RK3588, Allwinner SoCs, RISC-V platforms — focus on boot optimization, power efficiency, Linux bring-up, and peripheral integration
+* **Embedded/SoC** - ARM Cortex series, Rockchip RK3588, Allwinner SoCs, RISC-V platforms — focus on boot optimization, power efficiency, Linux bring-up, and peripheral integration
 
 
 ---
