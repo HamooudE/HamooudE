@@ -1,10 +1,5 @@
 ![Banner](assets/HamooudE.png)
 
-**HamoudE™ Corp.**  
-**DEV & PCB Architect**  
-**IG:** @ShortnGround  
-🎯 [𝗗𝗶𝘀𝗰𝗼𝗱𝗲.𝗱𝗲𝘃](https://discode.dev)
-
 ---
 
 ## ✏️ About Me
